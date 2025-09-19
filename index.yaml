@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  hello-helm:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-09-19T07:59:04.621736925Z"
+    description: A k8s tutorials in https://github.com/zpf177/k8s-tutorials
+    digest: a38a22d626cf32c5ae1cee28f71204c9e04bc415b1893d7438abf8d87a4a82cd
+    name: hello-helm
+    type: application
+    urls:
+    - https://github.com/zpf-177/hello-k8s/releases/download/hello-helm-0.1.0/hello-helm-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-09-19T07:59:04.621742565Z"
